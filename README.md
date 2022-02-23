@@ -8,4 +8,6 @@ virtualenv env (created a virtualenv called 'env')
 source env/bin/activate (activates the environment)
 (env) now appears
 
+pip3 install flask-mysql
+
 python3 app.py (starts webserver)
